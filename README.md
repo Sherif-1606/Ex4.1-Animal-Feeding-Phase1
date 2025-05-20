@@ -1,4 +1,5 @@
 # Ex4.1-Animal-Feeding-Phase1
+
 ## Aim :
 
 To develop a animal feeding game-Phase-1 using unity.
@@ -58,9 +59,6 @@ Select all three animals in the hierarchy and Add Component > Drag the Move Forw
 Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
 
 ## PROGRAM :
-
-## DEVELOPED BY : Abheek.A
-## REG NO : 212224100001
 
 ## PLAYER CONTROL :
 
@@ -131,8 +129,10 @@ public class MoveForward : MonoBehaviour
 
 ```
 ## OUTPUT :
-![alt text](<Screenshot 2025-05-16 101114.png>)
-![alt text](<Screenshot 2025-05-16 101129.png>)
+
+![alt text](<Screenshot 2025-05-08 124617.png>)
+
+![alt text](<Screenshot 2025-05-08 171924.png>)
 
 ## RESULT :
 
